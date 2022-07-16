@@ -13,3 +13,18 @@ C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\Cont
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll

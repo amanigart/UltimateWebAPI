@@ -17,3 +17,22 @@ C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\Comp
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
 C:\Users\amani\source\repos\12-Working with PATCH Requests\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CopyComplete
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
