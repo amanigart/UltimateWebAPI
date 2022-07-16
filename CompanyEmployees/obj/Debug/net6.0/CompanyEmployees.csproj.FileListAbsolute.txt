@@ -153,7 +153,6 @@ C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.AssemblyInfoInputs.cache
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.AssemblyInfo.cs
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.csproj.CoreCompileInputs.cache
-C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\staticwebassets.development.json
