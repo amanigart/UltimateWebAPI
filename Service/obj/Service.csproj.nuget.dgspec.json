@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }

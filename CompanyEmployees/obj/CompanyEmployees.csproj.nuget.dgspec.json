@@ -184,6 +184,9 @@
             "projectReferences": {
               "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -380,6 +383,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.19, )"
             }
           },
           "imports": [
