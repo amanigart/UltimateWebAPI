@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Reflection;
+using Repository.Extensions.Utility;
 
 namespace Repository.Extensions
 {
@@ -29,18 +30,12 @@ namespace Repository.Extensions
             if (string.IsNullOrWhiteSpace(orderByQueryString))
                 return employees.OrderBy(e => e.Name);
 
-            var orderParams = orderByQueryString.Trim().Split(',');
-            var propertyInfos = typeof(Employee).GetProperties(BindingFlags.Public | BindingFlags.Instance);
-            var orderQueryBuilder = new StringBuilder();
+            var orderQuery = OrderQueryBuilder.CreateOrderQuery<Employee>(orderByQueryString);
 
-            foreach (var param in orderParams)
-            {
-                if (string.IsNullOrWhiteSpace(param)
-                    continue;
+            if (string.IsNullOrWhiteSpace(orderQuery))
+                return employees.OrderBy(e => e.Name);
 
-                var propertyFromQueryName = param.Split(" ")[0];
-
-            }
+            return employees.OrderBy(orderQuery);
         }
     }
 }

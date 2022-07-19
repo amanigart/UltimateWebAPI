@@ -164,3 +164,4 @@ C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.genruntimeconfig.cache
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\ref\CompanyEmployees.dll
 C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amani\source\repos\Ultimate_Web_APIs\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
