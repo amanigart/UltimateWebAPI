@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XGV8O1oMnBRhY7MnfAtxuMZ3y9HgsvH3UfAW/XC6HkKWMIU9x0nW6KaoY+54EnXAMkFzPFf2Eu6ZzQL7RA6dcg==",
+  "dgSpecHash": "7GxUxNMLi+RmAVfnG+Ph+Y/QC1/ZVlV5JnMJ/U/AflaMfeg+oH7FBUM0T+ZN3WVxKATVZqDt4SvDm9ONjOz0mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\amani\\source\\repos\\Ultimate_Web_APIs\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.7.nupkg.sha512",
+    "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.0\\microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "C:\\Users\\amani\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
