@@ -1656,7 +1656,7 @@
         "dependencies": {
           "Contracts": "1.0.0",
           "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.7",
           "System.Linq.Dynamic.Core": "1.2.19"
         },
         "compile": {
