@@ -44,7 +44,7 @@ namespace CompanyEmployees.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Companies");
+                    b.ToTable("Companies", (string)null);
 
                     b.HasData(
                         new
@@ -90,7 +90,7 @@ namespace CompanyEmployees.Migrations
 
                     b.HasIndex("CompanyId");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employees", (string)null);
 
                     b.HasData(
                         new
@@ -169,6 +169,12 @@ namespace CompanyEmployees.Migrations
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
 
+                    b.Property<string>("RefreshToken")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("RefreshTokenExpiryTime")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
@@ -221,15 +227,15 @@ namespace CompanyEmployees.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "fcdee8fd-fb2b-4f26-9a0e-fea73d336812",
-                            ConcurrencyStamp = "2c94d0dc-c934-4b4e-9110-dafa4d19291e",
+                            Id = "2097817f-6dba-46ec-bc95-11e35d24930c",
+                            ConcurrencyStamp = "00688b25-14e0-4369-98ba-ee384435e4cf",
                             Name = "Manager",
                             NormalizedName = "MANAGER"
                         },
                         new
                         {
-                            Id = "4f8083c0-3939-47ce-a81b-6f921f282c5c",
-                            ConcurrencyStamp = "0f211072-6a66-431c-bea9-82b1b61ae3bc",
+                            Id = "0aba1083-6e1b-4ea0-baf4-20bab346cf34",
+                            ConcurrencyStamp = "979c1232-3f82-46cf-87d3-f71a945f02a2",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });
